@@ -20,11 +20,10 @@
         "ext-json": "*",
         "ext-openssl": "*",
         "guzzlehttp/guzzle": "^7.0",
-        "illuminate/support": "v10.0.0",
+        "illuminate/support": "^11.0",
         "wildbit/postmark-php": "^4.0"
     },
     "require-dev": {
-        "orchestra/testbench": "v8.0.0",
         "phpunit/phpunit": "^9.6"
     },
     "autoload": {
